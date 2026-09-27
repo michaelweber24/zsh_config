@@ -1,0 +1,6 @@
+alias grab="sudo xbps-install -Sv"
+alias fpkg="sudo xbps-query -Rs"
+alias rbt="sudo reboot"
+alias rr="sudo rm -rf"
+alias ls="eza -la --color=always --icons=always"
+alias mm="sudo micro"
