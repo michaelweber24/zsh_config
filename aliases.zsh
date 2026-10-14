@@ -1,6 +1,10 @@
-alias grab="sudo xbps-install -Sv"
-alias fpkg="sudo xbps-query -Rs"
+alias grab="sudo nala install"
+alias fpkg="sudo nala search"
 alias rbt="sudo reboot"
 alias rr="sudo rm -rf"
 alias ls="eza -la --color=always --icons=always"
 alias mm="sudo micro"
+alias nali="micro ~/.oh-my-zsh/custom/aliases.zsh"
+alias rzsh="source ~/.zshrc"
+alias clc="rm -rf ~/.cache"
+
